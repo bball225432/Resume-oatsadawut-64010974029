@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Thitipong Cheujunthuek</title>
+<title>oatsadawut ruangsawud</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -30,10 +30,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-person fa-fw w3-margin-right w3-large w3-text-red"></i><b>Thiwa Sinthukoot</b></p>
+          <p><i class="fa fa-person fa-fw w3-margin-right w3-large w3-text-red"></i><b>oatsadawut ruangsawud</b></p>
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-green"></i>Student</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-yellow"></i>Maha Sarakham, Thailand</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>64010974030	@msu.ac.th</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>64010974029	@msu.ac.th</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-red"></i></p>
           <hr>
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-green"></i>Skills</b></p>
